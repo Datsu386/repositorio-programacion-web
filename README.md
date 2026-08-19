@@ -1,13 +1,18 @@
-# repositorio-programacion-web
-Este es el repositorio que se usara a lo largo del semestre en la materia de la UABCS de Programacion web
-# Markdown syntax guide
-
-## Headers
-
 # Programación Web
-## Repositorio de Github
+## Repositorio De Github
 
 ## Listas
+
+### Viñetadas
+
+* Item 1
+* Item 2
+* Item 2a
+* Item 2b
+    * Item 3a
+    * Item 3b
+
+### Ordenadas
 
 1. Item 1
 2. Item 2
@@ -15,13 +20,13 @@ Este es el repositorio que se usara a lo largo del semestre en la materia de la 
     1. Item 3a
     2. Item 3b
 
-## Images
+## Imágenes
 
 ![This is an alt text.](/image/Markdown-mark.svg "This is a sample image.")
 
 ## Links
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+Aqui es el repositorio [Github](https://github.com/Datsu386/repositorio-programacion-web).
 
 ## Tables
 
